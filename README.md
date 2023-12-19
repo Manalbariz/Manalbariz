@@ -4,13 +4,13 @@
 <h3 align="center">DÉVELOPPEUSE WEB FULL STACK JUNIOR</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🔭 I’m currently working on **2D game with Java**
+- 🔭 I’m currently working on **3D game**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Unity / Typescript**
 
-- 👯 I’m looking to **Web development internship**
+- 👯 I’m looking to **improve my skills**
 
-- 💬 Ask me about **Python , Html , Css , Php ...**
+- 💬 Ask me about **Python , Html , Css , Php, Java ...**
 
 - 📫 How to reach me **barizmanal10@gmail.com**
 
