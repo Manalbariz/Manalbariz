@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **3D game**
 
-- 🌱 I’m currently learning **Unity / Typescript**
+- 🌱 I’m currently learning **Unity / Typescript / Angular**
 
 - 👯 I’m looking to **improve my skills**
 
