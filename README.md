@@ -4,17 +4,20 @@
 **Développeuse Web Full‑Stack & passionnée d’IA**
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🔭 I’m currently working on **Web application**
+- 🔭 Actuellement en exploration de l’IA
 
-- 🌱 I’m currently learning **Machine learning in Python**
+- 🌱 🌱 Je me forme activement sur :
+    * Machine Learning (scikit‑learn, TensorFlow, PyTorch...)
+    * Réseaux de neurones convolutionnels
 
-- 👯 I’m looking to **improve my skills**
+- 👯 Je cherche à **améliorer mes compétences**
 
-- 💬 Ask me about **Python , Angular, Typescript, nestjs, Html , Css , Php, Java ...**
+- ⚡ Fun fact : **J’étais professeure de mathématiques**
 
-- 📫 How to reach me **barizmanal10@gmail.com**
 
-- ⚡ Fun fact **I was a math teacher**
+🎓 **Certifications** :
+- 🏅IBM -  What is Data Science?
+ https://www.coursera.org/account/accomplishments/certificate/U49679XZR88K
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
