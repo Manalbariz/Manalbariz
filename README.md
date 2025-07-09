@@ -15,7 +15,7 @@
 - ⚡ Fun fact : **J’étais professeure de mathématiques**
 
 # 📜 Certifications
-<details text>
+<details>
   <summary>📂 Voir mes certifications</summary>
 
   <br/>
