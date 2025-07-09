@@ -20,6 +20,13 @@
 
   <br/>
   
+| Certification | Logo |
+|:------------:|:----:|
+| **🧠 What is Data Science? – Coursera (IBM)** | [![Coursera/IBM](https://assets.serverwatch.com/uploads/2022/08/SW.C.IBM_.png)](https://www.coursera.org/account/accomplishments/certificate/U49679XZR88K) |
+| **🧪 Cours intensif sur la science des données – Coursera (Johns Hopkins University)** | [![Johns Hopkins](https://img.shields.io/badge/Coursera-Johns%20Hopkins%20University-blue?logo=coursera)](https://www.coursera.org/learn/data-scientists-toolbox) |
+| **📊 Supervised Machine Learning: Regression and Classification – Coursera (DeepLearning.AI & Stanford Online)** | [![Stanford Online](https://img.shields.io/badge/Coursera-Stanford%20Online-red?logo=coursera)](https://www.coursera.org/learn/machine-learning) |
+| **➗ Mathematics for Machine Learning: Linear Algebra – Coursera (Imperial College London)** | [![Imperial College London](https://img.shields.io/badge/Coursera-Imperial%20College%20London-darkblue?logo=coursera)](https://www.coursera.org/learn/linear-algebra-machine-learning) |
+
 <div style="text-align:center;"> 
   <h3 style="text-align:center;">🧠 What is Data Science? – Coursera (IBM)</h3>
   <a href="https://www.coursera.org/account/accomplishments/certificate/U49679XZR88K" target="_blank">
