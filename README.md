@@ -6,7 +6,7 @@
 
 - 🔭 Actuellement en exploration de l’IA
 
-- 🌱 🌱 Je me forme activement sur :
+- 🌱 Je me forme activement sur :
     * Machine Learning (scikit‑learn, TensorFlow, PyTorch...)
     * Réseaux de neurones convolutionnels
 
@@ -16,8 +16,13 @@
 
 
 🎓 **Certifications** :
-- 🏅IBM -  What is Data Science?
- https://www.coursera.org/account/accomplishments/certificate/U49679XZR88K
+- 📜 [What is Data Science? – Coursera (IBM)](https://www.coursera.org/account/accomplishments/certificate/U49679XZR88K)
+- 🧪 [Cours intensif sur la science des données – Coursera (Johns Hopkins University)](https://www.coursera.org/account/accomplishments/certificate/4YRULLTWZVWX)
+- 📊 [Supervised Machine Learning: Regression and Classification – Coursera (DeepLearning.AI & Stanford Online)](https://www.coursera.org/account/accomplishments/certificate/K8KLB7A3NR9L)
+- ➗ [Mathematics for Machine Learning: Linear Algebra – Coursera (Imperial College London)](https://www.coursera.org/account/accomplishments/certificate/YBANW8N541LG)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
