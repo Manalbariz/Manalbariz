@@ -1,7 +1,7 @@
 ![MasterHead](https://getwallpapers.com/wallpaper/full/2/d/f/490230.jpg)
 
-<h1 align="center">Hi 👋, I'm Manal Bariz</h1>
-<h3 align="center">DÉVELOPPEUSE WEB FULL STACK JUNIOR</h3>
+# Bonjour, je suis **Manal Bariz** 👋
+**Développeuse Web Full‑Stack & passionnée d’IA**
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 🔭 I’m currently working on **Web application**
