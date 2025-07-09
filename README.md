@@ -16,7 +16,7 @@
 
 # 📜 Certifications
 <details>
-  <summary>📂 Voir mes certifications</summary>
+  <summary></summary>
 
   <br/>
   
