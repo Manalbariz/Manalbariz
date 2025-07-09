@@ -22,10 +22,10 @@
   
 | Certification | Logo |
 |:------------:|:----:|
-| **🧠 What is Data Science? – Coursera (IBM)** |  [<img src="https://assets.serverwatch.com/uploads/2022/08/SW.C.IBM_.png" width="120" alt="Coursera/IBM">](https://www.coursera.org/account/accomplishments/certificate/U49679XZR88K) |
-| **🧪 Cours intensif sur la science des données – Coursera (Johns Hopkins University)** | [![Johns Hopkins](https://1000logos.net/wp-content/uploads/2022/07/Johns-Hopkins-University-Logo.jpg)](https://www.coursera.org/account/accomplishments/certificate/4YRULLTWZVWX) |
-| **📊 Supervised Machine Learning: Regression and Classification – Coursera (DeepLearning.AI & Stanford Online)** | [![Stanford Online](https://149396518.v2.pressablecdn.com/wp-content/uploads/2023/05/Screenshot-2023-05-09-at-2.00.14-PM.png)](https://www.coursera.org/account/accomplishments/certificate/K8KLB7A3NR9L) |
-| **➗ Mathematics for Machine Learning: Linear Algebra – Coursera (Imperial College London)** | [![Imperial College London](https://www.pngkey.com/png/full/195-1957960_imperial-college-london-logo-vector.png)](https://www.coursera.org/account/accomplishments/certificate/YBANW8N541LG) |
+| **🧠 What is Data Science? – Coursera (IBM)** |  [<img src="https://assets.serverwatch.com/uploads/2022/08/SW.C.IBM_.png" width="150" alt="Coursera/IBM">](https://www.coursera.org/account/accomplishments/certificate/U49679XZR88K) |
+| **🧪 Cours intensif sur la science des données – Coursera (Johns Hopkins University)** |  [<img src="https://1000logos.net/wp-content/uploads/2022/07/Johns-Hopkins-University-Logo.jpg" width="150" alt="Coursera/Johns Hopkins University">](https://www.coursera.org/account/accomplishments/certificate/4YRULLTWZVWX) |
+| **📊 Supervised Machine Learning: Regression and Classification – Coursera (DeepLearning.AI & Stanford Online)** | [<img src="https://149396518.v2.pressablecdn.com/wp-content/uploads/2023/05/Screenshot-2023-05-09-at-2.00.14-PM.png" width="150" alt="Coursera/Stanford Online">](https://www.coursera.org/account/accomplishments/certificate/K8KLB7A3NR9L) |
+| **➗ Mathematics for Machine Learning: Linear Algebra – Coursera (Imperial College London)** | [<img src="https://www.pngkey.com/png/full/195-1957960_imperial-college-london-logo-vector.png" width="150" alt="Coursera/Imperial College London">](https://www.coursera.org/account/accomplishments/certificate/YBANW8N541LG) |
 
 
 </details>
