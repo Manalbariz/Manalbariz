@@ -22,8 +22,7 @@
 
   ### 🧠 What is Data Science? – Coursera (IBM)  
   <a href="https://www.coursera.org/account/accomplishments/certificate/U49679XZR88K" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Coursera_logo.svg/256px-Coursera_logo.svg.png" alt="Coursera" width="120" style="margin        right:20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/7/71/IBM_logo.svg" alt="IBM" width="120">
+    <img src="https://assets.serverwatch.com/uploads/2022/08/SW.C.IBM_.png" alt="Coursera/IBM" width="120" style="margin        right:20px;">
   </a>
 
   ---
