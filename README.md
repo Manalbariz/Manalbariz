@@ -15,16 +15,17 @@
 - ⚡ Fun fact : **J’étais professeure de mathématiques**
 
 # 📜 Certifications
-<details>
+<details text>
   <summary>📂 Voir mes certifications</summary>
 
   <br/>
-
+ <div style="text-align:center;"> 
   ### 🧠 What is Data Science? – Coursera (IBM)  
+  <p style="text-align:center;">
   <a href="https://www.coursera.org/account/accomplishments/certificate/U49679XZR88K" target="_blank">
     <img src="https://assets.serverwatch.com/uploads/2022/08/SW.C.IBM_.png" alt="Coursera/IBM" width="120" style="margin        right:20px;">
   </a>
-
+  </p>
   ---
 
   ### 🧪 Cours intensif sur la science des données – Coursera (Johns Hopkins University)  
@@ -42,7 +43,7 @@
   ### ➗ Mathematics for Machine Learning: Linear Algebra – Coursera (Imperial College London)  
   ![Coursera](https://img.shields.io/badge/Coursera-Imperial%20College%20London-darkblue?logo=coursera)  
   [Voir la certification](https://www.coursera.org/learn/linear-algebra-machine-learning)
-
+</div>
 </details>
 
 
